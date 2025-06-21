@@ -1,2 +1,2 @@
 # ZeppelingEmbeds
-A simple repository for templated embed that I find usefull
+A simple repository for templated embeds that I find usefull
