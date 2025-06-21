@@ -1,0 +1,27 @@
+?post_embed <channelIDhere> -raw 
+{
+  "title": "🌟✨ SERVER BOOST DRIVE ✨🌟",
+  "description": "Hey everyone! We're kicking off a **Server Boost Drive** to help level up our community and unlock some amazing perks!",
+  "color": 15418782,
+  "fields": [
+    {
+      "name": "🎯 Goal",
+      "value": "Reach __14 Boosts__ to unlock **Level 3** perks!"
+    },
+    {
+      "name": "💖 Why Boost?",
+      "value": "• Custom server banner & vanity URL  \n• Increased voice quality  \n• More emoji slots & upload limits  \n• Exclusive perks for boosters!"
+    },
+    {
+      "name": "🌹 Booster Rewards",
+      "value": "• **Exclusive Booster Role** 💎  \n• **Boosters-only lounge** 💬  \n• **Early access to giveaways** 🎁  \n• **Shoutout & appreciation!** 💌"
+    }
+  ],
+  "footer": {
+    "text": "Let’s grow together — thank you for supporting the server 💖"
+  }
+}
+
+# Just copy all the above and paste into discord
+# Make sure to leave out these comments and the change the <channelIDhere> to the channel ID no <>
+
